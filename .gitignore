@@ -3,7 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+<<<<<<< HEAD
 .mvnw
+=======
+>>>>>>> Entity
 
 ### STS ###
 .apt_generated
